@@ -28,8 +28,8 @@ Participant samples can be found under the `/Algorithms/data/` directory. We pro
 
 
 ## Code 📖
-Our implementation is built upon the TSception open-source repository[https://github.com/yi-ding-cs/TSception
-] released by Yi Ding et al. We sincerely thank them for making the complete code framework publicly available.
+Our implementation is built upon the TSception open-source repository released by Yi Ding et al [https://github.com/yi-ding-cs/TSception
+]. We thank them for making the complete code framework publicly available.
 
 Environment installation:
 

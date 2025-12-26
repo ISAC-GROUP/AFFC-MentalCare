@@ -68,6 +68,11 @@ scikit-learn
 pandas
 ```
 
+Model Training:
+```shell
+python main.py 
+```
+
 ## Prototype
 As for the hardware design, we provide the schematic diagram of the core board under the `/Prototype/` directory.
 

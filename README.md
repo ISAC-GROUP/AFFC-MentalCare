@@ -68,7 +68,7 @@ scikit-learn
 pandas
 ```
 
-Model Training:
+Model Training and Testing:
 ```shell
 python main.py 
 ```

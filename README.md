@@ -47,25 +47,6 @@ scikit-learn
 pandas
 ```
 
-
-
-## Citation 🖊️
-
-If you find our work useful, please consider citing our paper:
-
-```
-@ARTICLE{zhang2026depguard,
-  author={Zhang, Yufei and Jin, Shuo and Kuang, Wenting and Zheng, Yuda and Song, Qifeng and Fan, Changhe and Zou, Yongpan and Leung, Victor C. M. and Wu, Kaishun},
-  journal={IEEE Transactions on Mobile Computing}, 
-  title={DepGuard: Depression Recognition and Episode Monitoring System With a Ubiquitous Wrist-Worn Device}, 
-  year={2026},
-  volume={25},
-  number={1},
-  pages={197-214},
-  doi={10.1109/TMC.2025.3591096}
-}
-```
-
 ## Acknowledgement ✉️
 
 If you are interested in our collection of ubiquitous wearable devices, please contact  [Prof. Yongpan Zou](https://yongpanzou.github.io/), College of Computer Science and Software Engineering, Shenzhen University.

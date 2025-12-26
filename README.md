@@ -55,10 +55,11 @@ scikit-learn
 pandas
 ```
 
-Model Training and Testing:
+Model Training and Testing :
 ```shell
-python main.py 
+python main.py --sub-id 3
 ```
+
 
 ## Prototype 🗒️
 As for the hardware design, we provide the schematic diagram of the core board under the `/Prototype/` directory.

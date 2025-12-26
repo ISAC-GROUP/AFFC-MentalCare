@@ -8,7 +8,7 @@ In the extended version submitted to _IEEE Transactions on Mobile Computing_, we
 ## Dataset 📖
 
 Regarding the dataset, we collected a real-world, ubiquitous, and multimodal physiological signals from Guangdong
-Second Provincial General Hospital and Shenzhen University, including 17 with depression, 22 with anxiety, 16 bipolar with bipolar, as well as 18 normal subjects. We collect thier heart rate variability, blood oxygen saturation, galvanic skin response (IR and IRed), and skin temperature signals. 
+Second Provincial General Hospital and Shenzhen University, including 17 with depression, 22 with anxiety, 16 bipolar with bipolar, as well as 18 normal subjects. We collected thier heart rate variability, blood oxygen saturation, galvanic skin response (IR and IRed), and skin temperature signals. 
 
 | Signal type             | Sensor model | Sampling rate | Data type                                   |
 | ----------------------- | ------------ | ------------- | ------------------------------------------- |

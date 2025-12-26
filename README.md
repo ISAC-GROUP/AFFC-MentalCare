@@ -28,8 +28,6 @@ Participant samples can be found under the `/Algorithms/data/` directory. We pro
 
 
 ## Code 📖
-Our implementation is built upon the TSception open-source repository released by Yi Ding et al [https://github.com/yi-ding-cs/TSception
-]. We thank them for making the complete code framework publicly available.
 
 Environment installation:
 
@@ -62,7 +60,7 @@ Model Training and Testing:
 python main.py 
 ```
 
-## Prototype
+## Prototype 🗒️
 As for the hardware design, we provide the schematic diagram of the core board under the `/Prototype/` directory.
 
 

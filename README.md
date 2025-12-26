@@ -27,20 +27,9 @@ Participant samples can be found under the `/Algorithms/data/` directory. We pro
 | Sub3                     | Healthy    |  3    |
 
 
-## SOTA Baseline Repository 
-
-| Baselines | Venues              | Github Link                                                |
-|-----------|---------------------|------------------------------------------------------------|
-| ManyDG    | ICLR 2023           | https://github.com/ycq091044/ManyDG                        |
-| TSception | IEEE TAFFC 2023     | https://github.com/yi-ding-cs/TSception                    |
-| MSTGCN    | IEEE TNSRE 2021     | https://github.com/ziyujia/MSTGCN                          |
-| BioDG     | IEEE TETCI 2023     | https://github.com/aristotelisballas/biodg                 |
-| CDDG      | Neural Networks 2024| https://github.com/ShaneSpace/DGFDBenchmark                |
-| MDNet     | IJCAI 2024          | https://github.com/hairongChenDavid/MDNet                  |
-
-
-
 ## Code 📖
+Our implementation is built upon the TSception open-source repository[https://github.com/yi-ding-cs/TSception
+] released by Yi Ding et al. We sincerely thank them for making the complete code framework publicly available.
 
 Environment installation:
 

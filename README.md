@@ -2,7 +2,7 @@
 
 This is the PyTorch implementation of ***MentalCare*** for psychiatric disorders detection. 
 
-A prior conference peper is accepted as a Spotlight/Interactive paper in the 24th International Conference on Pervasive Computing and Communications (IEEE PerCom 2026).
+A prior conference peper is accepted as a Spotlight/Interactive paper in the _24th International Conference on Pervasive Computing and Communications (IEEE PerCom 2026)_.
 In the extended version submitted to IEEE Transactions on Mobile Computing, we will release the source code, prototype, and a subset of the test samples. 
 
 ## Dataset 📖

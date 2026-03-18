@@ -7,6 +7,10 @@ In the extended version submitted to _IEEE Transactions on Mobile Computing_.
 
 We have released the source code, data and prototype.
 
+## Prototype 🔩
+As for the hardware design, we provide the schematic diagram of the core board under the `/Prototype/` directory.
+Most existing wristband manufacturers do not offer low-level interaction APIs. To the best of our knowledge, only the E4 commercial wristband offers such access, which requires a purchase costing several thousand dollars. This limitation motivated us to design a custom wrist-worn device by integrating multiple physiological sensors. However, this approach results in a larger size and increased weight. We plan to further iterate and optimize the hardware design in future work.
+
 ## Dataset 📖
 
 Regarding the dataset, we collected a real-world, ubiquitous, and multimodal physiological signals from Guangdong
@@ -27,7 +31,6 @@ Participant samples can be found under the `/Algorithms/data/` directory. We pro
 | Anxiety    |  1    |
 | Bipolar    |  2    |
 | Healthy    |  3    |
-
 
 ## Code 📖
 
@@ -61,10 +64,6 @@ Model Training and Testing :
 ```shell
 python main.py --sub-id 3
 ```
-
-
-## Prototype 🗒️
-As for the hardware design, we provide the schematic diagram of the core board under the `/Prototype/` directory.
 
 
 ## Acknowledgement ✉️

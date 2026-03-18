@@ -4,7 +4,9 @@ This is the PyTorch implementation of ***MentalCare*** for psychiatric disorders
 
 A prior conference peper is accepted in the _24th International Conference on Pervasive Computing and Communications (IEEE PerCom 2026)_.
 In the extended version submitted to _IEEE Transactions on Mobile Computing_.
+
 We have released the source code, data and prototype.
+It should be noted that all resources in this project are for research purposes only and must not be used for any commercial purposes.
 
 ## Dataset 📖
 
@@ -67,5 +69,18 @@ As for the hardware design, we provide the schematic diagram of the core board u
 
 
 ## Acknowledgement ✉️
+If this project has sparked your interest or contributed to your research, we would greatly appreciate it if you would consider citing our work.
+
+```bibtex
+@inproceedings{zhang2026mentalcare,
+  title={MentalCare: Contrastive Disentanglement and Positive Transfer for Psychiatric Disorder Detection with a Wristband-smartphone System},
+  author={Zhang, Yufei and Kuang, Wenting and Huang, Zite and Fan, Changhe and Zou, Yongpan},
+  booktitle={Proceedings of the IEEE International Conference on Pervasive Computing and Communications (PerCom)},
+  pages={1--10},
+  year={2026},
+  address={Pisa, Italy},
+  month={March}
+}
+```
 
 If you are interested in our ubiquitous wearable devices, please contact [Prof. Yongpan Zou](https://yongpanzou.github.io/), College of Computer Science and Software Engineering, Shenzhen University.

@@ -1,6 +1,6 @@
 # MentalCare
 
-This is the PyTorch implementation of ***MentalCare*** for psychiatric disorders detection. 
+This is the PyTorch implementation of ***MentalCare*** for multi-class psychiatric disorders detection. 
 
 A prior conference peper is accepted in the _24th International Conference on Pervasive Computing and Communications (IEEE PerCom 2026)_.
 In the extended version submitted to _IEEE Transactions on Mobile Computing_.

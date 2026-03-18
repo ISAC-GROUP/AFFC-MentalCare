@@ -3,7 +3,8 @@
 This is the PyTorch implementation of ***MentalCare*** for psychiatric disorders detection. 
 
 A prior conference peper is accepted in the _24th International Conference on Pervasive Computing and Communications (IEEE PerCom 2026)_.
-In the extended version submitted to _IEEE Transactions on Mobile Computing_, we will release the source code, prototype, and a subset of the test samples. 
+In the extended version submitted to _IEEE Transactions on Mobile Computing_.
+We have released the source code, data and, prototype.
 
 ## Dataset 📖
 
@@ -19,12 +20,12 @@ Second Provincial General Hospital and Shenzhen University, including 17 with de
 
 Participant samples can be found under the `/Algorithms/data/` directory. We provide physiological data examples for one subject in each group (each psychiatric condition and the healthy control group). The mapping between subject IDs, diagnostic categories, and labels is summarized below:
 
-| Subject IDs              | Category   | Label |
-|--------------------------|------------|:-----:|
-| Sub18                    | Depression |  0    |
-| Sub21                    | Anxiety    |  1    |
-| Sub26                    | Bipolar    |  2    |
-| Sub3                     | Healthy    |  3    |
+| Category   | Label |
+|------------|:-----:|
+| Depression |  0    |
+| Anxiety    |  1    |
+| Bipolar    |  2    |
+| Healthy    |  3    |
 
 
 ## Code 📖
@@ -67,4 +68,4 @@ As for the hardware design, we provide the schematic diagram of the core board u
 
 ## Acknowledgement ✉️
 
-If you are interested in our ubiquitous wearable devices, please contact  [Prof. Yongpan Zou](https://yongpanzou.github.io/), College of Computer Science and Software Engineering, Shenzhen University.
+If you are interested in our ubiquitous wearable devices, please contact [Prof. Yongpan Zou](https://yongpanzou.github.io/), College of Computer Science and Software Engineering, Shenzhen University.

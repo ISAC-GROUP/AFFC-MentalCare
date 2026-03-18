@@ -9,6 +9,7 @@ We have released the source code, data and prototype.
 
 ## Prototype 🔩
 As for the hardware design, we provide the schematic diagram of the core board under the `/Prototype/` directory.
+
 Most existing wristband manufacturers do not offer low-level interaction APIs. To the best of our knowledge, only the E4 commercial wristband offers such access, which requires a purchase costing several thousand dollars. This limitation motivated us to design a custom wrist-worn device by integrating multiple physiological sensors. However, this approach results in a larger size and increased weight. We plan to further iterate and optimize the hardware design in future work.
 
 ## Dataset 📖

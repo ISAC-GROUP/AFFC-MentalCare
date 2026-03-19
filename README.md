@@ -5,7 +5,7 @@ This is the PyTorch implementation of ***MentalCare*** for multi-class psychiatr
 A prior conference peper is accepted in the _24th International Conference on Pervasive Computing and Communications (IEEE PerCom 2026)_.
 In the extended version submitted to _IEEE Transactions on Mobile Computing_.
 
-We have released the source code, sample data and prototype.
+We have released the source code, test samples and prototype.
 
 ## Prototype 🔩
 As for the hardware design, we provide the schematic diagram of the core board under the `/Prototype/` directory.
